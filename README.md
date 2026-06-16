@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Daniel</h1>
 <h3 align="center">Fresh Grad in Computing | Python & SQL for Data Analyst | Exploring Machine Learning through personal projects🚀</h3>
 
-- 🔭 I’m currently working on [Private](https://github.com/Daniel0u0/FoxAndGrassGod-Daily)
+- 🔭 I’m currently working on [5-day-ai-agent](https://github.com/Daniel0u0/5-day-ai-agent)
 
 - 🌱 I’m currently learning **Machine Learning**
 
